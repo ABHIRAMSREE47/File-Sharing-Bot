@@ -15,7 +15,7 @@
   </a>
   <br>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
+    <img src="https://img.shields.io/github/stars//File-Sharing-Bot?style=social">
   </a>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
     <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
@@ -64,12 +64,12 @@ I Guess This Will Be Usefull For Many People.....😇.
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ABHIRAMSREE47/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
 
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/ABHIRAMSREE47/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -109,7 +109,7 @@ python3 main.py
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/ABHIRAMSREE47/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 * `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#custom_stats'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
